@@ -11,7 +11,7 @@
 
 ### 2 - 1 Deep Learning Specialization
 
-- [시작 전 : Coursera Deep Learning Specialization]()
+- [In progress : Coursera Deep Learning Specialization](./coursera)
 
     - `Mission 1 (In Progress)` : `Neural Networks and Deep Learning` 수강
 
@@ -19,12 +19,12 @@
 
 ### 2 - 2 Kaggle Project
 
-- [시작 전 : Kaggle Project]()
+- [시작 전 : Kaggle Project](./kaggle)
 
     - 수료 조건 : 내 캐글 Tabular Playground Series에 노트북을 제출하거나 Competition에 참여하여 상위 25%안에 랭킹 들기
 
 ### 2 - 3 GCP Professional Data Engineer Certificate
 
-- [시작 전 : GCP Professional Data Engineer Certificate]()
+- [시작 전 : GCP Professional Data Engineer Certificate](./gcp_data_certification)
 
     - 자격증 취득 
