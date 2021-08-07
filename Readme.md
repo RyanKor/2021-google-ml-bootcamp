@@ -13,7 +13,7 @@
 
 - [In progress : Coursera Deep Learning Specialization](./coursera)
 
-    - `Mission 1 (In Progress)` : `Neural Networks and Deep Learning` 수강
+    - `Mission 1 (Finished)` : `Neural Networks and Deep Learning` 수강
 
         - Mission Deadline : `8월 6일 ~ 8월 16일 오전 9시`
 
