@@ -18,4 +18,5 @@
 
 ## 2. Assignment Management
 
-- [x] `Mission 1` : `Neural Networks and Deep Learning`
+- [x] `Week2` : `Logistic Regression with a Neural Network mindset`
+- [x] `Week3` : `Planar_data_classification_with_one_hidden_layer`

@@ -17,6 +17,8 @@
 
     - [ ] `Mission 2 (In Progress)` : `Neural Networks and Deep Learning 후반부`
 
+        - [Only Assignment Codes here](./coursera/assignment/lecture1/week3))
+
 ### 2 - 2 Kaggle Project
 
 - [시작 전 : Kaggle Project](./kaggle)
