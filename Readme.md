@@ -13,7 +13,7 @@
 
 - [In progress : Coursera Deep Learning Specialization](./coursera)
 
-    - [x] `Mission 1 (Finished)` : `Neural Networks and Deep Learning 초반부`
+    - [x] `Mission 1 (Finished)` : [Neural Networks and Deep Learning 초반부](./coursera/lecture1/week2)
 
     - [ ] `Mission 2 (In Progress)` : `Neural Networks and Deep Learning 후반부`
 
