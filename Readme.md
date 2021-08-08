@@ -13,9 +13,9 @@
 
 - [In progress : Coursera Deep Learning Specialization](./coursera)
 
-    - `Mission 1 (Finished)` : `Neural Networks and Deep Learning` 수강
+    - [x] `Mission 1 (Finished)` : `Neural Networks and Deep Learning 초반부`
 
-        - Mission Deadline : `8월 6일 ~ 8월 16일 오전 9시`
+    - [ ] `Mission 2 (In Progress)` : `Neural Networks and Deep Learning 후반부`
 
 ### 2 - 2 Kaggle Project
 
