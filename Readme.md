@@ -11,13 +11,51 @@
 
 ### 2 - 1 Deep Learning Specialization
 
-- [In progress : Coursera Deep Learning Specialization](./coursera)
+- 1. Neural Networks and Deep Learing
 
-    - [x] `Mission 1 (Finished)` : [Neural Networks and Deep Learning 초반부](./coursera/lecture1/week2)
+    - Week 1 : Introduction to Deep Learning
 
-    - [ ] `Mission 2 (In Progress)` : `Neural Networks and Deep Learning 후반부`
+        - 딥러닝 소개
 
-        - [Only Assignment Codes here](./coursera/assignment/lecture1/week3)
+    - Week 2 : Neural Networks Basics
+
+        - Numpy 라이브러리 소개
+
+        - 이진 분류 모델 소개
+
+        - 로지스틱 회귀 함수 소개 (사이킷런 없이 구현 진행, 비용 함수 등 구현)
+
+        - 실습
+
+    - Week 3 : Shallow Neural Networks
+
+        - 인공신경망 소개
+
+        - 활성함수 소개
+
+        - 경사하강법
+
+        - 인공신경망 구현에서 순전파(Forward Propagation), 역전파(Backward Propagation) 소개
+
+        - 실습
+
+    - Week 4 : Deep Neural Networks
+
+        - L Layer 신경망 소개
+
+        - 다계층 신경망에서 순전파 & 역전파
+
+        - Parameters vs Hyperparameters
+
+- 2. Improving Deep Neural Network : Hyperparameter Tuning, Regularization and Optimization
+
+    - Week 1 : Practical Aspects of Deep Learning
+
+        - 편향 분산 트레이드 오프(Bias & Variance Trade-Off)
+
+        - 정규화(Regularization)
+
+        - 최적화 문제 (Optimization Problem)
 
 ### 2 - 2 Kaggle Project
 
