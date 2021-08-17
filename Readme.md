@@ -5,11 +5,9 @@
 
 - [완료 : Google ML 2021 Application Quiz](./quiz)
 
+---
 
-## 2. Main Course
-
-
-### 2 - 1 Deep Learning Specialization
+## 2 Coursera Deep Learning Specialization
 
 - 1. Neural Networks and Deep Learing
 
@@ -56,14 +54,44 @@
         - 정규화(Regularization)
 
         - 최적화 문제 (Optimization Problem)
+    
+    - Week 2 : Optimization Algorithms
 
-### 2 - 2 Kaggle Project
+        - Batch vs Mini-Batch
+
+        - Mini-Batch Gradient Descent
+
+        - Exponentially Weighted Averages
+
+        - Bias Correction in Exponentially Weighted
+
+        - Gradient Descent with Momentum
+
+        - Adam Optimization
+
+        - Learning Rate Decay
+
+        - Local Optima
+
+    - Week 3 : Hyperparameter Tuning, Batch Normalization and Programming Frameworks
+
+        - Hyperparameter Tuning
+
+        - Batch Normalization
+
+        - Multi-class Classification
+
+---
+
+## 3. Kaggle Project
 
 - [시작 전 : Kaggle Project](./kaggle)
 
     - 수료 조건 : 내 캐글 Tabular Playground Series에 노트북을 제출하거나 Competition에 참여하여 상위 25%안에 랭킹 들기
 
-### 2 - 3 GCP Professional Data Engineer Certificate
+---
+
+## 4. GCP Professional Data Engineer Certificate
 
 - [시작 전 : GCP Professional Data Engineer Certificate](./gcp_data_certification)
 
