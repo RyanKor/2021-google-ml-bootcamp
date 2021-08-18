@@ -7,7 +7,9 @@
 
 ---
 
-## 2 Coursera Deep Learning Specialization
+## 2. Coursera Deep Learning Specialization
+
+--> [Detail Content View](https://github.com/RyanKor/2021-google-ml-bootcamp/wiki/Coursera-Deep-Learning)
 
 - 1. Neural Networks and Deep Learing
 
