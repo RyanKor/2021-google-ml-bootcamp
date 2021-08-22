@@ -30,6 +30,11 @@
     - Week 3 : Hyperparameter Tuning, Batch Normalization and Programming Frameworks
 
 - 3. Structuring Machine Learning Projects
+
+    - Week 1 : ML Strategy(1)
+    
+    - Week 2 : ML Strategy(2)
+
 ---
 
 ## 3. Kaggle Project
