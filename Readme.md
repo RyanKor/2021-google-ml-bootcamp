@@ -35,6 +35,25 @@
     
     - Week 2 : ML Strategy(2)
 
+- 4. Convolutional Neural Network
+
+    - Week 1 : Foundations of Convolutional Nerual Network
+    
+    - Week 2 : Deep Convolutional Models : Case Studies
+
+    - Week 3 : Object Detection
+    
+    - Week 4 : Special Application : Face Recognition & Neural Style Transfer
+
+- 5. Sequencial Models
+
+    - Week 1 : Recurrent Neural Networks
+    
+    - Week 2 : Natural Language Processing & Word Embedding
+
+    - Week 3 : Sequence Models & Attention Mechanism
+    
+    - Week 4 : Transfer Network
 ---
 
 ## 3. Kaggle Project
