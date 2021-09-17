@@ -65,6 +65,8 @@
     - 자격증 취득 완료
     - 시험 일자 및 취득 일자 : 2021.09.16
 
+---
+
 ## 4. Kaggle Project
 
 - [시작 전 : Kaggle Project](./kaggle)
