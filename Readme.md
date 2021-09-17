@@ -9,7 +9,9 @@
 
 ## 2. Coursera Deep Learning Specialization
 
---> [Detail Content View](https://github.com/RyanKor/2021-google-ml-bootcamp/wiki/Coursera-Deep-Learning)
+- [Detail Content View](https://github.com/RyanKor/2021-google-ml-bootcamp/wiki/Coursera-Deep-Learning)
+
+- 수료 완료
 
 - 1. Neural Networks and Deep Learing
 
@@ -56,7 +58,14 @@
     - Week 4 : Transfer Network
 ---
 
-## 3. Kaggle Project
+## 3. Tensorflow Developer Certificate
+
+- [Tensorflow Developer Certificate](./tensorflow_in_practice)
+
+    - 자격증 취득 완료
+    - 시험 일자 및 취득 일자 : 2021.09.16
+
+## 4. Kaggle Project
 
 - [시작 전 : Kaggle Project](./kaggle)
 
@@ -64,8 +73,9 @@
 
 ---
 
-## 4. GCP Professional Data Engineer Certificate
+## 5. GCP Professional Data Engineer Certificate
 
 - [시작 전 : GCP Professional Data Engineer Certificate](./gcp_data_certification)
 
+    - 11월 29일 월요일 시험 예정
     - 자격증 취득 
