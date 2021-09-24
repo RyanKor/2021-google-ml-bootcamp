@@ -81,3 +81,11 @@
 
     - 11월 29일 월요일 시험 예정
     - 자격증 취득 
+
+## (Optional) 6. Programmers Dev-Match 미술작품 분류하기
+
+- [Repository](https://github.com/RyanKor/dev-match-ML)
+
+
+    - 최종 제출 일자 : 2021.09.24 금요일
+    - 프로젝트 수행 기간 : 2021.09.17 ~ 2021.09.24 (총 8일)
