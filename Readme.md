@@ -79,8 +79,8 @@
 
 - [GCP Professional Data Engineer Certificate](./gcp_data_certification)
 
-    - 11월 29일 월요일 시험 예정
-    - 자격증 취득 
+    - 11월 2일 화요일 시험 진행
+    - 자격증 취득 완료
 
 ## (Optional) 6. Programmers Dev-Match 미술작품 분류하기
 
