@@ -64,7 +64,7 @@
 
     - 자격증 취득 완료
     - 시험 일자 및 취득 일자 : 2021.09.16
-
+    - [자격증 링크](https://www.credential.net/8b28d930-5e16-4023-884b-1820fd8d8f5e#gs.flse8s)
 ---
 
 ## 4. Kaggle Project
@@ -81,6 +81,7 @@
 
     - 11월 2일 화요일 시험 진행
     - 자격증 취득 완료
+    - [자격증 링크](https://www.credential.net/03537775-3648-4fd1-a06c-8ea02d91613e?key=304142fead33e44f6e01c27b1bc10af50205ada70a1f7d7ce64de1ad27711062)
 
 ## (Optional) 6. Programmers Dev-Match 미술작품 분류하기
 
